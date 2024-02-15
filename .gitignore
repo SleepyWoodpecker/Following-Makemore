@@ -1,1 +1,4 @@
 .DS_Store
+
+# ignore from makemmore lecture 3
+lecture\ 3\ MLP/makemore_part2_mlp.ipynb
