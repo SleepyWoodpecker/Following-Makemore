@@ -2,3 +2,6 @@
 
 # ignore from makemmore lecture 3
 lecture\ 3\ MLP/makemore_part2_mlp.ipynb
+
+# ignore the makemore from lecture 2
+Lecture\ 4\ Batchnorm/lecture_notebook.ipynb
