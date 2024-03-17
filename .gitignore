@@ -1,7 +1,15 @@
 .DS_Store
 
+
 # ignore from makemmore lecture 3
 lecture\ 3\ MLP/makemore_part2_mlp.ipynb
 
-# ignore the makemore from lecture 2
+# ignore the makemore from lecture 4
 Lecture\ 4\ Batchnorm/lecture_notebook.ipynb
+
+# ignore the wavenet lecture (did not do much)
+Lecture\ 6\ Wavenet
+
+# ignore working files for the tokenizer lecture
+Lecture\ 8\ BPE/*
+!Lecture\ 8\ BPE/gpt-4\ tokenizer.ipynb
