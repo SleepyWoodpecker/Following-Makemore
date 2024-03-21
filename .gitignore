@@ -13,3 +13,4 @@ Lecture\ 6\ Wavenet
 # ignore working files for the tokenizer lecture
 Lecture\ 8\ BPE/*
 !Lecture\ 8\ BPE/gpt-4\ tokenizer.ipynb
+!Lecture\ 8\ BPE/BPE\ Final.py
